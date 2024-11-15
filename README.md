@@ -12,5 +12,7 @@ routes, view schedules, and make bo|okings with just a few
 clicks.
 
 1.the MVC architecture used to develop the project. This architecture splits the application into three logical components, and each component serves its purpose.
+
 2.the CRUD operations (Create,Read, Update, Delete). These operations areessential for any application to managepersistent databases, and maintainable.
+
 3.the backend development technologies were Visual Studio Code as an IDE, and NodeJS,Express, Mongodb.
